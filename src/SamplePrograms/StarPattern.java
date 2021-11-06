@@ -2,6 +2,7 @@ package SamplePrograms;
 
 public class StarPattern {
 
+	// Sample comments to pull from git
 	public static void main(String[] args) {
 // Star Pattern logic - forward
 //		*
